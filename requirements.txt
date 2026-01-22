@@ -1,0 +1,7 @@
+cupy
+matplotlib
+numpy
+pyfits
+rich
+scipy
+sigpyproc
